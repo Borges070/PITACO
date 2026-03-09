@@ -3,3 +3,6 @@ Pitaco é um espaço de aprendizado vivo, horizontal e colaborativo, onde todas 
 
 Objetivo:
 Construir uma comunidade de pessoas interessadas em tecnologia, criando um espaço aberto para trocar experiências, compartilhar conhecimentos, aprender continuamente e desenvolver projetos em conjunto. A proposta é fortalecer conexões entre pessoas que têm interesses em comum, promovendo colaboração, crescimento coletivo e evolução técnica por meio da cooperação e da prática.
+
+Site do PITACO:
+https://site-monitoria-blue.vercel.app/pitaco.html
