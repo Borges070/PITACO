@@ -1,6 +1,6 @@
 # Visibilidade e Transparência para as votações dos Projetos de Lei
 
-O Civitas será desenvolvido pela equipe Civitas, é uma plataforma que organiza os dados públicos relacionados aos Projetos de Lei e aos políticos associados à eles, com o objetivo de trazer acessibilidade ao acompanhamento da política legislativa brasileira, aumentando a transparência e visibilidade do dia a dia da política.
+Civitas é uma plataforma que organiza os dados públicos relacionados aos Projetos de Lei e aos políticos associados à eles, com o objetivo de trazer acessibilidade ao acompanhamento da política legislativa brasileira, aumentando a transparência e visibilidade do dia a dia da política.
 
 *Coleta automatizada de dados públicos:* 
 
