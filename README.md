@@ -1,6 +1,6 @@
 # Visibilidade e Transparência para as votações dos Projetos de Lei
 
-O projeto terá como objetivo inicial desenvolver um conjunto de funcionalidades essenciais que permitam coletar, organizar e disponibilizar informações públicas de forma transparente e acessível.
+O projeto tem como objetivo inicial desenvolver um conjunto de funcionalidades essenciais que permitam coletar, organizar e disponibilizar informações públicas de forma transparente e acessível.
 
 *Coleta automatizada de dados públicos:* 
 
@@ -8,7 +8,7 @@ desenvolvimento de crawlers e scripts responsáveis por obter informações de f
 
 *Organização e estruturação dos dados:*
 
-criação de um sistema para armazenar e organizar os dados coletados de maneira clara e pesquisável.
+criação de um sistema para armazenar e organizar os dados coletados de maneira clara e facilmente pesquisável.
 
 *Garantia de integridade e confiabilidade das informações:*
 
