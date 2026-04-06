@@ -18,5 +18,7 @@ implementação de mecanismos de auditoria e/ou assinaturas digitais para assegu
 
 desenvolvimento de uma interface simples e fácil de navegar, permitindo que qualquer usuário identifique rapidamente temas de interesse, como votações de projetos de lei e os políticos responsáveis ou envolvidos nesses projetos.
 
-### planejamento do projeto:
+### Planejamento do projeto:
 https://www.figma.com/board/vgKP0ca6EB86UIkyFWsLAN/Projeto-Integrador?node-id=0-1&p=f&t=EFzMuNxeIrDpIa2v-0
+### Link do Quadro Ágil:
+https://trello.com/b/Qb4m6UG5/projetocivitas
